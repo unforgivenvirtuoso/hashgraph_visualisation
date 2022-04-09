@@ -12,6 +12,6 @@ https://www.swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf
 
 This work is licensed under the GNU GPLv3 license. Meaning it is free and open source
 
-If you like my work please consider sending me Hbar. If you dont want to or are not able to no worries and hope you enjoy
-0.0.829445
+If you like my work please consider sending me Hbar at the address below. If you dont want to or are not able to no worries and hope you enjoy
 
+0.0.829445
