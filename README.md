@@ -10,6 +10,8 @@ https://github.com/Lapin0t/py-swirld
 The algorithm was created by Leemon Baird. This link is the whitepaper published by Leemon Baird explaining the algorithm in more depth
 https://www.swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf
 
+This work is licensed under the GNU GPLv3 license. Meaning it is free and open source
+
 If you like my work please consider sending me Hbar. If you dont want to or are not able to no worries and hope you enjoy
 0.0.829445
 
