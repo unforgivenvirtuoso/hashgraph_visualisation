@@ -1,8 +1,7 @@
 # hashgraph_visualisation
 visualising the hashgraph consensus algorithm
 
-try it out with the link below.
-
+try it out with the link below
 https://unforgivenvirtuoso.github.io/hashgraph_visualisation/
 
 Note: This is just a visualisation and not an implementation if you are looking for an implementation try this link below
